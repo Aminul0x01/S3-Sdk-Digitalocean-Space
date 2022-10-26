@@ -2,7 +2,7 @@
 /**
 * $Id$
 *
-* Copyright (c) 2007, Donovan Schonknecht.  All rights reserved.
+* Copyright (c) 2022, Aminul Islam.  All rights reserved.
 *
 * Redistribution and use in source and binary forms, with or without
 * modification, are permitted provided that the following conditions are met:
@@ -26,12 +26,6 @@
 * POSSIBILITY OF SUCH DAMAGE.
 */
  
-/**
-* Amazon S3 PHP class
-*
-* @link http://undesigned.org.za/2007/10/22/amazon-s3-php-class
-* @version 0.2.3
-*/
 class S3 {
 	// ACL flags
 	const ACL_PRIVATE = 'private';
